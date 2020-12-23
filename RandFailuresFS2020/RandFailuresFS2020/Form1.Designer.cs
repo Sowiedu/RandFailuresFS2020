@@ -645,7 +645,7 @@
             this.cbAlt.Name = "cbAlt";
             this.cbAlt.Size = new System.Drawing.Size(93, 17);
             this.cbAlt.TabIndex = 2;
-            this.cbAlt.Text = "At rand altitide";
+            this.cbAlt.Text = "At rand altitude";
             this.cbAlt.UseVisualStyleBackColor = true;
             // 
             // cbTaxi
